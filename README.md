@@ -1,2 +1,5 @@
-# modernworkculture
-monorepo for modernworkculture.com frontend and articles repo
+# Modern Work Culture
+How we work and our motivations for doing so have always been a moving target. Even more noteworthy, most humans spend the bulk of availble energy working. Often, how we work is a silent driver of the way we structure society and relate to each other, instead of the other way around. This project aims to bring how we work out of the shadows of corporate offices, parents garages and basements, sweatshops and plaintation fields, to name a few, into the light for all to know, see and srutinize. This is human project, not a software project. It wants to anthologize how each of our work relates to and effects each of our humanity. It aims to help indentify work related changes to our humanity, good or less so, before they become changesets harder to affect. 
+
+
+Anyone can contribute to this project. Code, article submission, translation, governance are all area of needs. See specific contribution guides for ways you can contribute!
